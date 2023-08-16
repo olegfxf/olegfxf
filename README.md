@@ -1,7 +1,8 @@
 <div id="badges"  align="left">
   <a href="mailto:vasilvedev@mail.ru"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"></img></a>
 </div>
-# Hi, I'm Oleg 👋
+
+#### Hi, I'm Oleg 👋
 
 Software Engineer with over 8
 
@@ -30,3 +31,4 @@ Software Engineer with over 8
 ![Java Shareit](https://github.com/olegfxf/java-shareit)
 
 ![Java Explore with me](https://github.com/olegfxf/java-explore-with-me)
+ это сервис, который позволит пользователям делиться информацией об интересных событиях и находить компанию для участия в них.
