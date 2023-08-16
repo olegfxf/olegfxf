@@ -25,7 +25,7 @@ Software Engineer with over 8
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### My works
-![Java Kanban](https://github.com/olegfxf/java-kanban)
+<br>-[Java Kanban](https://github.com/olegfxf/java-kanban)
 это сервис, который должен обеспечить пользователю возможность управлять потоком задач. Сложные задачи разбиваются на подзадачи и называются эпиками. Для контроля задачи вводятся три статуса ее состояния - новая задача, задача в работе, завершенная задача. Для управления задачами введен менеджер задач
 
 ![Java Filmorate](https://github.com/olegfxf/java-filmorate)
