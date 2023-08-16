@@ -25,10 +25,10 @@ Software Engineer with over 8
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### My works
-![Java Kanban](https://github.com/olegfxf/java-kanban)
+** ![Java Kanban](https://github.com/olegfxf/java-kanban)
 это сервис, который должен обеспечить пользователю возможность управлять потоком задач. Сложные задачи разбиваются на подзадачи и называются эпиками. Для контроля задачи вводятся три статуса ее состояния - новая задача, задача в работе, завершенная задача. Для управления задачами введен менеджер задач
 
-![Java Filmorate](https://github.com/olegfxf/java-filmorate)
+** ![Java Filmorate](https://github.com/olegfxf/java-filmorate)
 это бэкэнд-сервис на основе Restful API для хранения и управления информацией о фильмах(название, рейтинг MPA, жанр, описание и продолжительность), составления рейтинга фильмов на основе отзывов пользователей, поиска фильма, а также для общения пользователей.
 
 ![Java Shareit](https://github.com/olegfxf/java-shareit)
