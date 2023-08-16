@@ -24,6 +24,9 @@ Software Engineer with over 8
 
 #### My works
 ![Java Kanban](https://github.com/olegfxf/java-kanban)
+
 ![Java Filmorate](https://github.com/olegfxf/java-filmorate)
+
 ![Java Shareit](https://github.com/olegfxf/java-shareit)
+
 ![Java Explore with me](https://github.com/olegfxf/java-explore-with-me)
