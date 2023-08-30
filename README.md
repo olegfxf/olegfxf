@@ -24,6 +24,10 @@ Software Engineer with over 8
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+#### GitHub stats 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegfxf&show_icons=true&bg_color=00000000)
+
 #### My works
 <br> [Java Kanban](https://github.com/olegfxf/java-kanban)
 это сервис, который должен обеспечить пользователю возможность управлять потоком задач. Сложные задачи разбиваются на подзадачи и называются эпиками. Для контроля задачи вводятся три статуса ее состояния - новая задача, задача в работе, завершенная задача. Для управления задачами введен менеджер задач
