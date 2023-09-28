@@ -47,3 +47,5 @@ Software Engineer with over 8
 
 <br> [Java Explore with me](https://github.com/olegfxf/java-explore-with-me)
  это сервис, который позволит пользователям делиться информацией об интересных событиях и находить компанию для участия в них.
+
+ Использовались: java SE,Spring Boot,Maven,Git,REST Api,Lombok,SQL,H2,Jdbc,JdbcTemplate,Spring Data JPA,Docker.
