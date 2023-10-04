@@ -50,5 +50,5 @@ Software Engineer with over 8
 
  Использовались: java SE,Spring Boot,Maven,Git,REST Api,Lombok,SQL,H2,Jdbc,JdbcTemplate,Spring Data JPA,Docker.
 
- <br> [oauth2-microservices](https://github.com/olegfxf/oauth2-microservices)
+ <br> [Oauth2-microservices](https://github.com/olegfxf/oauth2-microservices)
  В проекте исследуется работа oauth2 в микросервисной архитектуре
