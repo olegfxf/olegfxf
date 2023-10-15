@@ -54,3 +54,8 @@ Software Engineer with over 8
  В проекте исследуется работа oauth2 в микросервисной архитектуре.
 
 Использовались: Spring Security,java SE,Spring Boot,Maven,Git,REST Api,Lombok,H2,Jdbc,Spring Data JPA.
+
+<br> [Java-Explore with me microservices](https://github.com/olegfxf/java-explore-with-me-microservices)
+Java-Explore-With-me" это сервис, который позволит пользователям делиться информацией об интересных событиях и находить компанию для участия в них. "Java-Explore-With-me-microservices" развивает проект "Java-Explore-With-me" в направлении масштабирования отдельных сервисов.
+В проекте "Java-Explore-With-me" эндпойнты уже сгруппированы по классам пользователей. Свои группы эндпойнтов имеют администратор приложения, авторизированный пользователь и обычные пользователи. Низко нагруженной группой эндпойнтов можно считать группу администратора, а высоко нагруженная группа относится к обычным пользователям. Разделив приложение на микросервисы по группам пользователей можно масштабировать приложение для высоко нагруженных микросервисов.
+Использовались: Java 11, Spring Boot, Maven, Git, REST Api, Lombok, PostgresSQL , Spring Data JPA, Docker.
